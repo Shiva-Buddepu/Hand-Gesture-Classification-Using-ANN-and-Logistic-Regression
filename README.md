@@ -5,19 +5,6 @@ It demonstrates the evolution from traditional machine learning to deep learning
 
 ---
 
-## Dataset Overview
-
-- **Dataset Source:** [Kaggle – Deep Learning Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/deep-learning-tutorial-for-beginners/input)
-- **Image Size:** 64 × 64  
-- **Color Space:** Grayscale  
-- **File Format:** `.npy`  
-- **Number of Classes:** 10 (Digits: 0–9)  
-- **Number of Participants:** 218  
-- **Samples per Participant:** 10  
-- **Additional Info:** Includes a new 27-class sign language dataset with diverse backgrounds for further experiments.
-
----
-
 ## Project Workflow
 
 ### 1. Data Overview
@@ -48,5 +35,17 @@ It demonstrates the evolution from traditional machine learning to deep learning
 - Built a multi-layer ANN using **Keras Sequential API**.
 - Tuned hyperparameters such as epochs, learning rate, and batch size.
 - Evaluated model accuracy and loss across multiple runs.
+
+---
+## Dataset Overview
+
+- **Dataset Source:** [Kaggle – Deep Learning Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/deep-learning-tutorial-for-beginners/input)
+- **Image Size:** 64 × 64  
+- **Color Space:** Grayscale  
+- **File Format:** `.npy`  
+- **Number of Classes:** 10 (Digits: 0–9)  
+- **Number of Participants:** 218  
+- **Samples per Participant:** 10  
+- **Additional Info:** Includes a new 27-class sign language dataset with diverse backgrounds for further experiments.
 
 ---
